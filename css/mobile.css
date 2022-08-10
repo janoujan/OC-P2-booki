@@ -245,12 +245,8 @@ ul.liste_filtre#droite a {
 
 #populaire h2 {
     justify-content: space-between;
-    width: 95%;
+    width: 90%;
     margin-left: 10px;
-}
-
-#populaire h2 i {
-    padding-right: 40px;
 }
 
 #photo_populaire {
