@@ -581,8 +581,9 @@ li.lien_filtre {
 #stat {
     background-color: #deebff;
     position: relative;
-    top: 5px;
+    /* top: 5px; */
     padding: 5px;
+    border-radius: 13px;
 }
 
 #photo_populaire {
