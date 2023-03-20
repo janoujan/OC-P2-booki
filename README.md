@@ -48,3 +48,13 @@ Sarah, CTO @Booki
 ### materials
 
 [link to given materials](/materials/)
+🤣
+### personal toughts:
+
+## What I learned
+
+HTML5 / CSS3 & integrations subtilities
+
+## what I can improve
+
+Gosh! it's time to learn SASS and organise your CSS... what a mess!!! 🤣😆🤣
