@@ -1,5 +1,5 @@
-﻿# Openclassrooms Web developper training: project n°2: BOOKI
-![](/BannerBooki.png)
+﻿![](/BannerBooki.png)
+# Openclassrooms Web developper training: project n°2: BOOKI
 
  ### Turn a model into a website
 
