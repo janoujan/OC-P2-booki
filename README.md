@@ -5,7 +5,7 @@
 
 ## languages and tools
 
-#### HTML5 / CSS3 (flexbox) only
+#### HTML5 / CSS3 only
 
 ## Scenario and requirements
 
@@ -44,3 +44,7 @@ Sarah, CTO @Booki
 ### Specifications
 
 [link to specifications](/booki_specifications.pdf)
+
+### materials
+
+[link to given materials](/materials/)
