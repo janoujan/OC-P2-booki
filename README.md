@@ -1,4 +1,7 @@
-﻿# Openclassrooms Web developper training: project n°2: BOOKI
+﻿\begin{center}
+# Openclassrooms Web developper training: project n°2: BOOKI
+
+\end{center}
  ### Transformer un maquette en site web
 
 ## languages and tools
@@ -16,9 +19,9 @@ Sarah sends you an e-mail to tell you about the progress of the project.
 
 ### CTO requirements's mail: 
 
-Subject: Booki site models
-From: Sarah
-To you
+Subject: Booki site models  
+From: Sarah  
+To you  
 Good morning,
 That's it, Loïc has finalized the desktop, tablet and mobile models of the site! You will be able to
 to integrate. They are available as attachments on Figma. Remember to log in to Figma to
