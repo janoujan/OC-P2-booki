@@ -1,8 +1,6 @@
-﻿\begin{center}
-# Openclassrooms Web developper training: project n°2: BOOKI
+﻿# Openclassrooms Web developper training: project n°2: BOOKI
 
-\end{center}
- ### Transformer un maquette en site web
+ ### Turn a model into a website
 
 ## languages and tools
 
