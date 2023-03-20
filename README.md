@@ -49,12 +49,12 @@ Sarah, CTO @Booki
 
 [link to given materials](/materials/)
 🤣
-### personal toughts:
+## personal toughts:
 
-## What I learned
+### What I learned
 
 HTML5 / CSS3 & integrations subtilities
 
-## what I can improve
+### what I can improve
 
 Gosh! it's time to learn SASS and organise your CSS... what a mess!!! 🤣😆🤣
