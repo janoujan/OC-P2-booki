@@ -1,2 +1,10 @@
-﻿# OC-P2-booki
-Ceci est un test personel pour bidouiller avec git....surtout pas une correction ou quoi que ce soit...à vos risques et perils....
+﻿# Openclassrooms Web developper trainning: project n°2: BOOKI
+ ### Transformer un maquette en site web
+
+## langage and tools
+
+#### only HTML5 / CSS3
+
+## Scenario and requirements
+
+
