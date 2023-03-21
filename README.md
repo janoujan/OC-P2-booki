@@ -53,6 +53,6 @@ Sarah, CTO @Booki
 
 ### What I learned
 
-HTML5 / CSS3 & integrations subtilities  
+HTML5 / CSS3   
 Integrate content according to a model  
 Implement a responsive interface  
