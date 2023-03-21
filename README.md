@@ -54,3 +54,7 @@ Sarah, CTO @Booki
 HTML5 / CSS3   
 Integrate content according to a model  
 Implement a responsive interface  
+
+#### Site Démonstration
+
+you can visit a demo of the site [here](https://janoujan.github.io/Booki/)
