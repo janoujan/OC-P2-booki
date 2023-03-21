@@ -49,9 +49,7 @@ Sarah, CTO @Booki
 
 [link to given materials](/materials/)
 
-## personal toughts:
-
-### What I learned
+## What I learned
 
 HTML5 / CSS3   
 Integrate content according to a model  
