@@ -48,7 +48,7 @@ Sarah, CTO @Booki
 ### materials
 
 [link to given materials](/materials/)
-🤣
+
 ## personal toughts:
 
 ### What I learned
