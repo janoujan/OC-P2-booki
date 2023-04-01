@@ -57,4 +57,4 @@ Implement a responsive interface
 
 #### Site Démonstration
 
-you can visit a demo of the site [here](https://janoujan.github.io/Booki/)
+you can visit a demo of the site [here](https://janoujan.github.io/P2-Booki/)
